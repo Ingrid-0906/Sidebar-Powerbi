@@ -1,0 +1,14 @@
+1 - 10 Metrics
+https://app.powerbi.com/view?r=eyJrIjoiYzY0MzFjMjktNzU4Yi00Y2VlLWFjZGEtYTQzOWZjMmE2OTNiIiwidCI6IjVlZmVmNDViLWVjYWYtNDNjOC1hM2RlLTM0NjU3MjU3ZTY2OCJ9&pageName=ReportSection
+
+2 - Emotional Connection
+https://app.powerbi.com/view?r=eyJrIjoiMTc4Y2JlMzUtNTA4NC00OWUxLThmYWMtODdkMTEyZmU2ZWQwIiwidCI6IjVlZmVmNDViLWVjYWYtNDNjOC1hM2RlLTM0NjU3MjU3ZTY2OCJ9&pageName=ReportSectiond8dac42a79db0045085a
+
+3 - Sales
+https://app.powerbi.com/view?r=eyJrIjoiOGRiYzQ0NWItNzVmZC00OGUxLTg4ZTgtYjdjOTU0OTQxYWQzIiwidCI6IjVlZmVmNDViLWVjYWYtNDNjOC1hM2RlLTM0NjU3MjU3ZTY2OCJ9&pageName=ReportSection4ad09faa12bb29926076
+
+4 - Ai Advice
+https://app.powerbi.com/view?r=eyJrIjoiMWJhNTkxZTctZTZiZS00M2ZkLWE5NTctNDg0ODMwZmFmOGE5IiwidCI6IjVlZmVmNDViLWVjYWYtNDNjOC1hM2RlLTM0NjU3MjU3ZTY2OCJ9&pageName=ReportSection61b30540216cc8370834
+
+5 - Demographics
+https://app.powerbi.com/view?r=eyJrIjoiZmYwOGI0YWQtYzI3My00MzA4LWE1N2UtZTY0OWI4ZWUwZTk5IiwidCI6IjVlZmVmNDViLWVjYWYtNDNjOC1hM2RlLTM0NjU3MjU3ZTY2OCJ9&pageName=ReportSection5cdec7bbd497c4dcdae2
